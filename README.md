@@ -1,1 +1,1 @@
-# Blackjack.py
+# Python Blackjack by [theravenstone](https://github.com/theravenstone)
